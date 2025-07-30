@@ -54,5 +54,5 @@ Job Hunter is a web application designed to help job seekers analyze their resum
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SaadAnsari123/Job-Hunter-.git
+   git clone https://github.com/AYAAN-DESHMUKH/Job-Hunter-Job-finding-website-.git
    cd job-hunter
